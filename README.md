@@ -1,6 +1,6 @@
 # ReadMe-Generator
 
-access here: https://farmerj95.github.io/burger/
+access here: https://farmerj95.github.io/ReadMe-Generator/
 
 ---
 ## Description
